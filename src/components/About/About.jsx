@@ -4,7 +4,6 @@ import aboutImg from '../../assets/about/aboutImage.png'
 import cursorIcon from '../../assets/about/cursorIcon.png'
 import serverIcon from '../../assets/about/serverIcon.png'
 
-
 const About = () => {
   return (
     <section className={styles.container} id='about'>
