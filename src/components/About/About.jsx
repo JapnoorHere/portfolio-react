@@ -3,6 +3,7 @@ import styles from './About.module.css'
 import aboutImg from '../../assets/about/aboutImage.png'
 import cursorIcon from '../../assets/about/cursorIcon.png'
 import serverIcon from '../../assets/about/serverIcon.png'
+import uiIcon from '../../assets/about/uiIcon.png'
 
 const About = () => {
   return (
@@ -29,7 +30,7 @@ const About = () => {
         </li>
 
         <li className={styles.aboutItem}>
-            <img src={serverIcon} alt="Server Icon" />
+            <img src={uiIcon} alt="UI Icon" />
         <div className={styles.aboutItemText}>
             <h3>UI Designer</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus officiis porro esse? Porro, error ut totam perferendis mollitia excepturi! Repellendus.</p>

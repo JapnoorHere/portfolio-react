@@ -1,0 +1,81 @@
+@import '../../vars.css';
+
+.container{
+    z-index: 1;
+    margin-top: 130px;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+.container h2{
+    
+    color: var(--color-text);
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 60px;
+}
+
+.container .content{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    align-items: center;
+    justify-content: center;
+    row-gap: 1rem;
+}
+
+.content .card{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: center;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out 0s;
+}
+
+.card p{
+    color: var(--color-text);
+}
+
+.card .cardImgContainer{
+    width: 100px;
+    height: 100px;
+    background-color: var(--color-secondary);
+    border-radius: 50%;
+    padding: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card .cardImgContainer img{
+    height: 100%;
+    width: 100%;
+}
+
+.card:hover{
+    scale: 1.2;
+}
+
+@media screen and (max-width: 830px){
+    .container .content{
+        grid-template-columns: repeat(3,1fr);
+    }
+
+    
+}
+
+@media screen and (max-width: 500px){
+    .container .content{
+        grid-template-columns: repeat(2,1fr);
+    }
+
+    
+}
+@media screen and (max-width: 350px){
+    .container .content{
+        grid-template-columns: repeat(1,1fr);
+    }
+
+    
+}
