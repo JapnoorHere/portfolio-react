@@ -27,10 +27,9 @@
 .content .card{
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 1rem;
     align-items: center;
     cursor: pointer;
-    transition: all 0.2s ease-in-out 0s;
 }
 
 .card p{
@@ -46,6 +45,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: all 0.2s ease-in-out 0s;
 }
 
 .card .cardImgContainer img{
@@ -53,7 +53,7 @@
     width: 100%;
 }
 
-.card:hover{
+.cardImgContainer:hover{
     scale: 1.2;
 }
 

@@ -1,0 +1,49 @@
+@import '../../vars.css';
+
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    background-color: var(--color-dark);
+    padding: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out 0s;
+}
+
+
+.card:hover {
+    background-color: var(--color-secondary);
+    scale: 1.05;
+}
+
+.card img{
+    transition: all 0.2s ease-in-out 0s;
+}
+
+.card:hover img{
+    scale: 1.04;
+}
+
+.card .heading {
+    color: var(--color-text);
+}
+
+.card .description {
+    color: var(--color-text);
+    text-align: justify
+}
+
+.projectLinks {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.projectLinks a {
+    color: var(--color-text);
+    text-decoration: none;
+    background-color: var(--color-primary);
+    padding: 7px 15px;
+    border-radius: 15px;
+}

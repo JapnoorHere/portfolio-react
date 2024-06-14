@@ -1,0 +1,111 @@
+[
+    {
+        "id" : "1",
+        "title" : "Project 1",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
+        "demo" : "https://www.google.com",
+        "source" : "https://www.google.com",
+        "image" : "projects/project.png",
+        "category" : "app",
+        "tech" : "Android Kotlin, Firebase"
+    },
+    {
+        "id" : "2",
+        "title" : "Project 1",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
+        "demo" : "https://www.google.com",
+        "source" : "https://www.google.com",
+        "image" : "projects/project.png",
+        "category" : "app",
+        "tech" : "Android Kotlin, Firebase"
+    },
+    {
+        "id" : "3",
+        "title" : "Project 1",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
+        "demo" : "https://www.google.com",
+        "source" : "https://www.google.com",
+        "image" : "projects/project.png",
+        "category" : "app",
+        "tech" : "Android Kotlin, Firebase"
+    },{
+        "id" : "10",
+        "title" : "Project 1",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
+        "demo" : "https://www.google.com",
+        "source" : "https://www.google.com",
+        "image" : "projects/project.png",
+        "category" : "app",
+        "tech" : "Android Kotlin, Firebase"
+    },{
+        "id" : "11",
+        "title" : "Project 1",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
+        "demo" : "https://www.google.com",
+        "source" : "https://www.google.com",
+        "image" : "projects/project.png",
+        "category" : "app",
+        "tech" : "Android Kotlin, Firebase"
+    },
+    {
+        "id" : "4",
+        "title" : "Project 2",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
+        "demo" : "https://www.google.com",
+        "source" : "https://www.google.com",
+        "image" : "projects/project.png",
+        "category" : "web",
+        "tech" : "React,Node,MongoDB"
+    }, 
+    {
+        "id" : "5",
+        "title" : "Project 2",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
+        "demo" : "https://www.google.com",
+        "source" : "https://www.google.com",
+        "image" : "projects/project.png",
+        "category" : "web",
+        "tech" : "React,Node,MongoDB"
+    }, 
+    {
+        "id" : "6",
+        "title" : "Project 2",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
+        "demo" : "https://www.google.com",
+        "source" : "https://www.google.com",
+        "image" : "projects/project.png",
+        "category" : "web",
+        "tech" : "React,Node,MongoDB"
+    },
+    {
+        "id" : "7",
+        "title" : "Project 3",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
+        "demo" : "https://www.google.com",
+        "source" : "https://www.google.com",
+        "image" : "projects/project.png",
+        "category" : "ui",
+        "tech" : "UI/UX"
+    },
+    {
+        "id" : "8",
+        "title" : "Project 3",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
+        "demo" : "https://www.google.com",
+        "source" : "https://www.google.com",
+        "image" : "projects/project.png",
+        "category" : "ui",
+        "tech" : "UI/UX"
+    },
+    {
+        "id" : "9",
+        "title" : "Project 3",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
+        "demo" : "https://www.google.com",
+        "source" : "https://www.google.com",
+        "image" : "projects/project.png",
+        "category" : "ui",
+        "tech" : "UI/UX"
+    }
+    
+]
