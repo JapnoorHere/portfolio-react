@@ -37,6 +37,11 @@
     text-decoration: none;
     font-size: 25px;
     color: var(--color-text);
+    transition: all 0.15s ease 0s;
+}
+
+.menuItems a:hover{
+    color: var(--color-primary);
 }
 
 @media screen and (max-width: 830px){

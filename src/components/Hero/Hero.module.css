@@ -37,7 +37,7 @@
     margin-bottom: 50px;
 }
 
-.contactBtn{
+.resumeBtn{
     text-decoration: none;
     background-color: var(--color-primary);
     color: var(--color-text);
@@ -46,6 +46,12 @@
     font-weight: 600;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
+    transition: all 0.18s ease 0s;
+}
+
+.resumeBtn:hover{
+
+    background-color: var(--color-primaryDark)
 }
 
 
@@ -74,25 +80,23 @@
 
 .topBlur{
     position: absolute;
-    width: 50vw;
+    width: 50%;
     height: 50vw;
-    min-width: 350px;
     top: -128px;
     left: -10vw;
     border-radius: 764px;
-    background: rgba(25,55,109,0.7);
+    background: rgba(25,55,109,0.5);
     filter: blur(100px);
     z-index: 0;
 }
 .bottomBlur{
     position: absolute;
-    width: 70vw;
+    width: 70%;
     height: 50vw;
-    min-width: 250px;
     top: 246px;
-    right: -25vw;
+    right: -20vw;
     border-radius: 764px;
-    background: rgba(25,55,109,0.7);
+    background: rgba(25,55,109,0.5);
     filter: blur(100px);
     z-index: 0;
 }
@@ -106,4 +110,15 @@
         align-items: center;
     }
 
+}
+
+@media screen and (max-width: 500px){
+    .title{
+        font-size: 2.4rem;
+        text-align: center;
+    }
+
+    .description{
+        font-size: 1.2rem;
+    }
 }

@@ -22,7 +22,7 @@ const Project = () => {
       }, [category]);
 
     return (
-        <section className={styles.project}>
+        <section className={styles.project} id='projects'>
             <div className={styles.container}>
                 <h2>Projects</h2>
                 <div className={styles.content}>

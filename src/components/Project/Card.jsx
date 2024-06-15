@@ -14,7 +14,9 @@ const Card = ({project}) => {
 
   return (
     <div className={styles.card}>
+      <div className={styles.imgContainer}>
         <img src={getImage(project.image)} alt="" />
+      </div>
         <h3 className={styles.heading}>{project.title}</h3>
         <p className={styles.description}>{project.description}</p>
         {/* <div className={styles.tech}>{project.tech.split(",")}</div> */}

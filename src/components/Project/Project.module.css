@@ -1,86 +1,109 @@
 @import '../../vars.css';
 
-.container{
-    max-width: 1200px;
-    margin: auto;
-    z-index: 1;
-    margin-top: 100px;
-    margin-left: 8%;
-    margin-right: 8%;
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  z-index: 1;
+  margin-top: 100px;
+  margin-left: 8%;
+  margin-right: 8%;
 }
 
-.container h2{
-    color: var(--color-text);
-    font-weight: 600;
-    text-transform: uppercase;
-    margin-bottom: 60px;
+.container h2 {
+  margin-left: 2%;
+  color: var(--color-text);
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 60px;
 }
 
-.content{
-    display: flex;
-    flex-direction: column;
+.content {
+  display: flex;
+  flex-direction: column;
 }
 
-.content .category_tab{
-    display: flex;
-    gap: 10rem;
-    margin-bottom: 100px;
-    justify-content: center;
+.content .category_tab {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 100px;
+  justify-content: center;
 }
 
-.category_tab .category{
-    font-size: 1.3rem;
-    cursor: pointer;
-    color: white;
-    width: 100px;
-    height: 40px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    border-radius: 20px;
-    padding: 10px 20px;
+.category_tab .category {
+  font-size: 1.3rem;
+  cursor: pointer;
+  color: white;
+  width: 100px;
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  padding: 10px 20px;
 }
 
-.active{
-    background-color: var(--color-secondary);
-    transition: all 0.2s ease-in 0s;
+.active {
+  background-color: var(--color-secondary);
+  transition: all 0.2s ease-in 0s;
 }
 
-.card_container{
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    gap: 2rem;
+.card_container {
+  gap: 1rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto;
+  align-items: center;
+  justify-content: center;
 }
-
-
 
 .animateOut {
-    animation: slideOut 0.2s forwards;
+  animation: slideOut 0.3s ease forwards;
+}
+
+.animateIn {
+  animation: slideIn 0.3s ease-out forwards;
+}
+
+@keyframes slideOut {
+  0% {
+    opacity: 1;
+    transform: translateX(0);
   }
-  
-  .animateIn {
-    animation: slideIn 0.2s forwards;
+
+  100% {
+    opacity: 0;
+    transform: translateX(-30%);
   }
-  
-  @keyframes slideOut {
-    0% {
-      opacity: 1;
-      transform: translateX(0);
-    }
-    100% {
-      opacity: 0;
-      transform: translateX(-10%);
-    }
+}
+
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+    transform: translateX(20%);
   }
-  
-  @keyframes slideIn {
-    0% {
-      opacity: 0;
-      transform: translateX(10%);
-    }
-    100% {
-      opacity: 1;
-      transform: translateX(0);
-    }
+
+  100% {
+    opacity: 1;
+    transform: translateX(0);
   }
+}
+
+
+
+@media screen and (max-width: 900px){
+    .container{
+      margin-left: 7%;
+      margin-right: 7%;
+    }
+    .card_container{
+      grid-template-columns: repeat(2,1fr);
+    }
+}
+
+@media screen and (max-width: 600px){
+    .card_container{
+      grid-template-columns: repeat(1,1fr);
+      gap: 2rem;
+    }
+}
