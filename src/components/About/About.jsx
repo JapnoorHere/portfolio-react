@@ -2,7 +2,7 @@ import React from 'react'
 import styles from './About.module.css'
 import aboutImg from '../../assets/about/aboutImage.png'
 import cursorIcon from '../../assets/about/cursorIcon.png'
-import serverIcon from '../../assets/about/serverIcon.png'
+import androidIcon from '../../assets/about/androidIcon.png'
 import uiIcon from '../../assets/about/uiIcon.png'
 
 const About = () => {
@@ -14,26 +14,26 @@ const About = () => {
       <ul className={styles.aboutItems}>
 
         <li className={styles.aboutItem}>
-            <img src={cursorIcon} alt="Cursor Icon" />
+            <img src={cursorIcon} alt="Cursor Icon" className={styles.aboutIcon}/>
         <div className={styles.aboutItemText}>
             <h3>Full Stack Developer</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus officiis porro esse? Porro, error ut totam perferendis mollitia excepturi! Repellendus.</p>
+            <p>I am an experienced Full Stack Developer with expertise in designing and implementing dynamic, user-centric web applications.</p>
         </div>
         </li >
 
         <li className={styles.aboutItem}>
-            <img src={serverIcon} alt="Server Icon" />
+            <img src={androidIcon} alt="Android Icon" className={styles.aboutIcon}/>
         <div className={styles.aboutItemText}>
-            <h3>Full Stack Developer</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus officiis porro esse? Porro, error ut totam perferendis mollitia excepturi! Repellendus.</p>
+            <h3>Android Developer</h3>
+            <p>I am an experienced App Developer with expertise in creating intuitive and robust mobile applications for both iOS and Android platforms.</p>
         </div>
         </li>
 
         <li className={styles.aboutItem}>
-            <img src={uiIcon} alt="UI Icon" />
+            <img src={uiIcon} alt="UI Icon" className={styles.aboutIcon}/>
         <div className={styles.aboutItemText}>
-            <h3>UI Designer</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus officiis porro esse? Porro, error ut totam perferendis mollitia excepturi! Repellendus.</p>
+            <h3>UI/UX Designer</h3>
+            <p>I am an experienced UI/UX Designer with expertise in creating visually compelling and user-friendly interfaces for web and mobile applications.</p>
         </div>
         </li>
 

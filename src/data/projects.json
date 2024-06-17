@@ -1,111 +1,56 @@
 [
     {
         "id" : "1",
-        "title" : "Project 1",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
-        "demo" : "https://www.google.com",
-        "source" : "https://www.google.com",
-        "image" : "projects/project.png",
+        "title" : "Eagle Eye Vigilance App",
+        "description" : "This app for reporting corruption issues, making it easy to file complaints and demand action. It includes a special shake-to-record feature for discreetly gathering evidence. The app ensures safety, privacy, and efficiency in addressing bribery.",
+        "demo" : "https://github.com/JapnoorHere/EagleEyeVigilanceApp",
+        "source" : "https://github.com/JapnoorHere/EagleEyeVigilanceApp",
+        "image" : "projects/eagleEye.png",
         "category" : "app",
         "tech" : "Android Kotlin, Firebase"
     },
     {
         "id" : "2",
-        "title" : "Project 1",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
-        "demo" : "https://www.google.com",
-        "source" : "https://www.google.com",
-        "image" : "projects/project.png",
+        "title" : "Word Guessing Game",
+        "description" : "This is a fun word guessing game built in Android Kotlin. Challenge yourself to guess the word with hints and limited tries. Enjoy hours of entertainment while improving your vocabulary and problem-solving skills!",
+        "demo" : "https://github.com/JapnoorHere/WordGuessingGame",
+        "source" : "https://github.com/JapnoorHere/WordGuessingGame",
+        "image" : "projects/wordGuessing.png",
         "category" : "app",
         "tech" : "Android Kotlin, Firebase"
     },
     {
         "id" : "3",
-        "title" : "Project 1",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
-        "demo" : "https://www.google.com",
-        "source" : "https://www.google.com",
-        "image" : "projects/project.png",
-        "category" : "app",
-        "tech" : "Android Kotlin, Firebase"
-    },{
-        "id" : "10",
-        "title" : "Project 1",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
-        "demo" : "https://www.google.com",
-        "source" : "https://www.google.com",
-        "image" : "projects/project.png",
-        "category" : "app",
-        "tech" : "Android Kotlin, Firebase"
-    },{
-        "id" : "11",
-        "title" : "Project 1",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
-        "demo" : "https://www.google.com",
-        "source" : "https://www.google.com",
-        "image" : "projects/project.png",
+        "title" : "AES Encryption Decryption",
+        "description" : "Our app provides a secure and efficient way to encrypt and decrypt your data using the Advanced Encryption Standard (AES). With this app, you can ensure that your sensitive information remains protected from unauthorized access.",
+        "demo" : "https://github.com/JapnoorHere/AESEncryptionDecryption",
+        "source" : "https://github.com/JapnoorHere/AESEncryptionDecryption",
+        "image" : "projects/aes.png",
         "category" : "app",
         "tech" : "Android Kotlin, Firebase"
     },
+    
     {
         "id" : "4",
-        "title" : "Project 2",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
-        "demo" : "https://www.google.com",
-        "source" : "https://www.google.com",
-        "image" : "projects/project.png",
+        "title" : "Madhav Sewa Society",
+        "description" : "This project bridges the gap between individuals with disabilities and President of Madhav Sewa Society. Our platform features events on disability rights, as well as volunteer opportunities to support this noble cause. This include feature of daily motivational videos and mudras for yoga.",
+        "demo" : "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "source" : "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "image" : "projects/mss.png",
         "category" : "web",
-        "tech" : "React,Node,MongoDB"
-    }, 
+        "tech" : "HTML, CSS, NodeJS, Firebase, MongoDB"
+    },
+    
     {
         "id" : "5",
-        "title" : "Project 2",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
-        "demo" : "https://www.google.com",
-        "source" : "https://www.google.com",
-        "image" : "projects/project.png",
+        "title" : "AES Encryption Decryption",
+        "description" : "Our app provides a secure and efficient way to encrypt and decrypt your data using the Advanced Encryption Standard (AES). With this app, you can ensure that your sensitive information remains protected from unauthorized access.",
+        "demo" : "https://github.com/JapnoorHere/AESEncryptionDecryption",
+        "source" : "https://github.com/JapnoorHere/AESEncryptionDecryption",
+        "image" : "projects/aes.png",
         "category" : "web",
-        "tech" : "React,Node,MongoDB"
-    }, 
-    {
-        "id" : "6",
-        "title" : "Project 2",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
-        "demo" : "https://www.google.com",
-        "source" : "https://www.google.com",
-        "image" : "projects/project.png",
-        "category" : "web",
-        "tech" : "React,Node,MongoDB"
-    },
-    {
-        "id" : "7",
-        "title" : "Project 3",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
-        "demo" : "https://www.google.com",
-        "source" : "https://www.google.com",
-        "image" : "projects/project.png",
-        "category" : "ui",
-        "tech" : "UI/UX"
-    },
-    {
-        "id" : "8",
-        "title" : "Project 3",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
-        "demo" : "https://www.google.com",
-        "source" : "https://www.google.com",
-        "image" : "projects/project.png",
-        "category" : "ui",
-        "tech" : "UI/UX"
-    },
-    {
-        "id" : "9",
-        "title" : "Project 3",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel.",
-        "demo" : "https://www.google.com",
-        "source" : "https://www.google.com",
-        "image" : "projects/project.png",
-        "category" : "ui",
-        "tech" : "UI/UX"
+        "tech" : "Android Kotlin, Firebase"
     }
     
+        
 ]

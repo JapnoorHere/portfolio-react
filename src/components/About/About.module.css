@@ -36,6 +36,12 @@
     gap: 50px;
 }
 
+.aboutIcon{
+    height: 60px;
+    width: 60px;
+    margin-right: 1rem;
+}
+
 .aboutItem{
     display: flex;
     flex-direction: row;

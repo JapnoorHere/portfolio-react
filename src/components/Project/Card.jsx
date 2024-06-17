@@ -21,8 +21,8 @@ const Card = ({project}) => {
         <p className={styles.description}>{project.description}</p>
         {/* <div className={styles.tech}>{project.tech.split(",")}</div> */}
         <div className={styles.projectLinks}>
-          <a href={project.demo} className={styles.demo}>Demo</a>
-          <a href={project.source} className={styles.source}>Source</a>
+          <a target='_blank' href={project.demo} className={styles.demo}>Demo</a>
+          <a target='_blank' href={project.source} className={styles.source}>Source</a>
         </div>
     </div>
   )

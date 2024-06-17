@@ -8,24 +8,36 @@
         "image": "skills/css.png"
     },
     {
-        "title": "Figma",
-        "image": "skills/figma.png"
+        "title": "Javascript",
+        "image": "skills/js.png"
     },
     {
-        "title": "GraphQL",
-        "image": "skills/graphql.png"
+        "title": "React",
+        "image": "skills/react.png"
     },
     {
         "title": "Node JS",
         "image": "skills/node.png"
     },
     {
+        "title": "Android Kotlin",
+        "image": "skills/android.png"
+    },
+    {
+        "title": "PostgreSQL",
+        "image": "skills/postgresql.png"
+    },{
+        "title": "Firebase",
+        "image": "skills/firebase.png"
+    },
+    {
         "title": "Mongo DB",
         "image": "skills/mongodb.png"
     },
+    
     {
-        "title": "React",
-        "image": "skills/react.png"
+        "title": "Figma",
+        "image": "skills/figma.png"
     }
     
 ]
