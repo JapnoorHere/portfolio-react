@@ -2,55 +2,65 @@
     {
         "id" : "1",
         "title" : "Eagle Eye Vigilance App",
-        "description" : "This app for reporting corruption issues, making it easy to file complaints and demand action. It includes a special shake-to-record feature for discreetly gathering evidence. The app ensures safety, privacy, and efficiency in addressing bribery.",
+        "code" : "https://github.com/JapnoorHere/EagleEyeVigilanceApp",
         "demo" : "https://github.com/JapnoorHere/EagleEyeVigilanceApp",
-        "source" : "https://github.com/JapnoorHere/EagleEyeVigilanceApp",
         "image" : "projects/eagleEye.png",
-        "category" : "app",
-        "tech" : "Android Kotlin, Firebase"
+        "category" : "app"
     },
     {
         "id" : "2",
         "title" : "Word Guessing Game",
-        "description" : "This is a fun word guessing game built in Android Kotlin. Challenge yourself to guess the word with hints and limited tries. Enjoy hours of entertainment while improving your vocabulary and problem-solving skills!",
+        "code" : "https://github.com/JapnoorHere/WordGuessingGame",
         "demo" : "https://github.com/JapnoorHere/WordGuessingGame",
-        "source" : "https://github.com/JapnoorHere/WordGuessingGame",
         "image" : "projects/wordGuessing.png",
-        "category" : "app",
-        "tech" : "Android Kotlin, Firebase"
+        "category" : "app"
     },
     {
         "id" : "3",
         "title" : "AES Encryption Decryption",
-        "description" : "Our app provides a secure and efficient way to encrypt and decrypt your data using the Advanced Encryption Standard (AES). With this app, you can ensure that your sensitive information remains protected from unauthorized access.",
+        "code" : "https://github.com/JapnoorHere/AESEncryptionDecryption",
         "demo" : "https://github.com/JapnoorHere/AESEncryptionDecryption",
-        "source" : "https://github.com/JapnoorHere/AESEncryptionDecryption",
         "image" : "projects/aes.png",
-        "category" : "app",
-        "tech" : "Android Kotlin, Firebase"
+        "category" : "app"
     },
     
     {
         "id" : "4",
         "title" : "Madhav Sewa Society",
-        "description" : "This project bridges the gap between individuals with disabilities and President of Madhav Sewa Society. Our platform features events on disability rights, as well as volunteer opportunities to support this noble cause. This include feature of daily motivational videos and mudras for yoga.",
+        "code" : "https://github.com/JapnoorHere/MadhavSewaSociety",
         "demo" : "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "source" : "https://github.com/JapnoorHere/MadhavSewaSociety",
         "image" : "projects/mss.png",
-        "category" : "web",
-        "tech" : "HTML, CSS, NodeJS, Firebase, MongoDB"
+        "category" : "web"
     },
     
     {
         "id" : "5",
-        "title" : "AES Encryption Decryption",
-        "description" : "Our app provides a secure and efficient way to encrypt and decrypt your data using the Advanced Encryption Standard (AES). With this app, you can ensure that your sensitive information remains protected from unauthorized access.",
-        "demo" : "https://github.com/JapnoorHere/AESEncryptionDecryption",
-        "source" : "https://github.com/JapnoorHere/AESEncryptionDecryption",
-        "image" : "projects/aes.png",
-        "category" : "web",
-        "tech" : "Android Kotlin, Firebase"
+        "title" : "Madhav Sewa Society",
+        "code" : "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "demo" : "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "image" : "projects/mss.png",
+        "category" : "ui"
+    },
+    
+    {
+        "id" : "6",
+        "title" : "Madhav Sewa Society",
+        "code" : "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "demo" : "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "image" : "projects/mss.png",
+        "category" : "ui"
+    },
+    
+    {
+        "id" : "7",
+        "title" : "Madhav Sewa Society",
+        "code" : "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "demo" : "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "image" : "projects/mss.png",
+        "category" : "ui"
     }
+    
+    
     
         
 ]

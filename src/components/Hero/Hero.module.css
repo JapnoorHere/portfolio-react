@@ -9,10 +9,11 @@
     z-index: 1;
     margin-left: 10%;
     margin-right: 10%;
-    gap: 1rem;
+    gap: 5rem;
 }
 
 .content{
+    
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -58,6 +59,7 @@
 .heroImg{
     width: 45%;
     z-index: 1;
+    margin-right: 5rem;
     animation-name: floating;
     animation-duration: 3s;
     animation-iteration-count: infinite;
@@ -109,6 +111,10 @@
     .content{
         align-items: center;
     }
+    .heroImg{
+        margin: 0;
+    }
+
 
 }
 
