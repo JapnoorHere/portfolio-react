@@ -29,7 +29,7 @@ const Project = () => {
                     <div className={styles.category_tab}>
                         <p className={`${styles.category} ${activeCategory === 'app' ? styles.active : ''}`} onClick={() => handleClick('app')}>App</p>
                         <p className={`${styles.category} ${activeCategory === 'web' ? styles.active : ''}`} onClick={() => handleClick('web')}>Web</p>
-                        <p className={`${styles.category} ${activeCategory === 'ui' ? styles.active : ''}`} onClick={() => handleClick('ui')}>UI</p>
+                        <p className={`${styles.category} ${activeCategory === 'ui' ? styles.active : ''}`} onClick={() => handleClick('ui')}>UI/UX </p>
                     </div>
                     
                     <div className={`${styles.card_container} ${animateOut ? styles.animateOut : styles.animateIn}`}>

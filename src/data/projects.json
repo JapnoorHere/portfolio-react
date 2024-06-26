@@ -1,66 +1,68 @@
 [
     {
-        "id" : "1",
-        "title" : "Eagle Eye Vigilance App",
-        "code" : "https://github.com/JapnoorHere/EagleEyeVigilanceApp",
-        "demo" : "https://github.com/JapnoorHere/EagleEyeVigilanceApp",
-        "image" : "projects/eagleEye.png",
-        "category" : "app"
+        "id": "1",
+        "title": "Eagle Eye Vigilance App",
+        "code": "https://github.com/JapnoorHere/EagleEyeVigilanceApp",
+        "demo": "https://github.com/JapnoorHere/EagleEyeVigilanceApp",
+        "image": "projects/eagleEye.png",
+        "category": "app"
     },
     {
-        "id" : "2",
-        "title" : "Word Guessing Game",
-        "code" : "https://github.com/JapnoorHere/WordGuessingGame",
-        "demo" : "https://github.com/JapnoorHere/WordGuessingGame",
-        "image" : "projects/wordGuessing.png",
-        "category" : "app"
+        "id": "2",
+        "title": "Word Guessing Game",
+        "code": "https://github.com/JapnoorHere/WordGuessingGame",
+        "demo": "https://github.com/JapnoorHere/WordGuessingGame",
+        "image": "projects/wordGuessing.png",
+        "category": "app"
     },
     {
-        "id" : "3",
-        "title" : "AES Encryption Decryption",
-        "code" : "https://github.com/JapnoorHere/AESEncryptionDecryption",
-        "demo" : "https://github.com/JapnoorHere/AESEncryptionDecryption",
-        "image" : "projects/aes.png",
-        "category" : "app"
+        "id": "3",
+        "title": "AES Encryption Decryption",
+        "code": "https://github.com/JapnoorHere/AESEncryptionDecryption",
+        "demo": "https://github.com/JapnoorHere/AESEncryptionDecryption",
+        "image": "projects/aes.png",
+        "category": "app"
     },
-    
     {
-        "id" : "4",
-        "title" : "Madhav Sewa Society",
-        "code" : "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "demo" : "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "image" : "projects/mss.png",
-        "category" : "web"
+        "id": "4",
+        "title": "Madhav Sewa Society",
+        "code": "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "demo": "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "image": "projects/mss.png",
+        "category": "web"
     },
-    
     {
-        "id" : "5",
-        "title" : "Madhav Sewa Society",
-        "code" : "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "demo" : "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "image" : "projects/mss.png",
-        "category" : "ui"
+        "id": "5",
+        "title": "Nike Shoes",
+        "code": "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "demo": "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FNIKE%20AIR%20Shoes%2Fnike%20air.png?alt=media&token=c320eaa4-5515-4679-8717-ad67e608cbb7",
+        "category": "ui",
+        "media": [
+            {
+                "type": "video",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FNIKE%20AIR%20Shoes%2F2024-02-07%2010-01-52%20(online-video-cutter.com).mp4?alt=media&token=66ffd620-86aa-4dcc-a2ef-f10b7dc86431"
+            },
+            {
+                "type": "image",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FNIKE%20AIR%20Shoes%2Fnike%20air.png?alt=media&token=c320eaa4-5515-4679-8717-ad67e608cbb7"
+            }
+        ]
     },
-    
     {
-        "id" : "6",
-        "title" : "Madhav Sewa Society",
-        "code" : "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "demo" : "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "image" : "projects/mss.png",
-        "category" : "ui"
+        "id": "6",
+        "title": "Madhav Sewa Society",
+        "code": "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "demo": "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "image": "projects/mss.png",
+        "category": "ui"
     },
-    
     {
-        "id" : "7",
-        "title" : "Madhav Sewa Society",
-        "code" : "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "demo" : "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "image" : "projects/mss.png",
-        "category" : "ui"
+        "id": "7",
+        "title": "Madhav Sewa Society",
+        "code": "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "demo": "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "image": "projects/mss.png",
+        "category": "ui"
     }
-    
-    
-    
-        
 ]

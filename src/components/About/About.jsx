@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from './About.module.css'
 import aboutImg from '../../assets/about/aboutImage.png'
-import cursorIcon from '../../assets/about/cursorIcon.png'
+import fullStackIcon from '../../assets/about/fullStackIcon.png'
 import androidIcon from '../../assets/about/androidIcon.png'
 import uiIcon from '../../assets/about/uiIcon.png'
 
@@ -14,7 +14,7 @@ const About = () => {
       <ul className={styles.aboutItems}>
 
         <li className={styles.aboutItem}>
-            <img src={cursorIcon} alt="Cursor Icon" className={styles.aboutIcon}/>
+            <img src={fullStackIcon} alt="Cursor Icon" className={styles.aboutIcon}/>
         <div className={styles.aboutItemText}>
             <h3>Full Stack Developer</h3>
             <p>I am an experienced Full Stack Developer with expertise in designing and implementing dynamic, user-centric web applications.</p>
