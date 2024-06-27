@@ -1,6 +1,7 @@
 @import '../../vars.css';
 
 .card {
+    background-color: var(--color-secondary);
     margin: auto;
     cursor: pointer;
     display: flex;
@@ -71,6 +72,7 @@
 }
 
 .links a {
+    margin: 0.5rem;
     width: 100px; /* Adjust width as needed */
     padding: 10px 7px;
     border-radius: 10px;
@@ -107,6 +109,8 @@
     height: auto;
     margin-bottom: 10px;
 }
+
+
 
 @media (max-width: 768px) {
     .card {

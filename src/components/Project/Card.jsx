@@ -32,7 +32,7 @@ const Card = ({ project }) => {
           
         )}
         <div className={styles.imgOverlay}>
-          <i className='fa fa-plus'></i>
+          {/* <i className='fa fa-plus'></i> */}
           <h1>{project.title}</h1>
          
         </div>

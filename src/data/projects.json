@@ -11,7 +11,7 @@
         "id": "2",
         "title": "Word Guessing Game",
         "code": "https://github.com/JapnoorHere/WordGuessingGame",
-        "demo": "https://github.com/JapnoorHere/WordGuessingGame",
+        "demo": "https://youtu.be/k3ILOgSZKxI",
         "image": "projects/wordGuessing.png",
         "category": "app"
     },
@@ -19,7 +19,7 @@
         "id": "3",
         "title": "AES Encryption Decryption",
         "code": "https://github.com/JapnoorHere/AESEncryptionDecryption",
-        "demo": "https://github.com/JapnoorHere/AESEncryptionDecryption",
+        "demo": "https://youtu.be/oEJqXtsRCQ0",
         "image": "projects/aes.png",
         "category": "app"
     },
@@ -27,15 +27,13 @@
         "id": "4",
         "title": "Madhav Sewa Society",
         "code": "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "demo": "https://github.com/JapnoorHere/MadhavSewaSociety",
+        "demo": "https://madhavsewasociety.onrender.com/",
         "image": "projects/mss.png",
         "category": "web"
     },
     {
         "id": "5",
         "title": "Nike Shoes",
-        "code": "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "demo": "https://github.com/JapnoorHere/MadhavSewaSociety",
         "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FNIKE%20AIR%20Shoes%2Fnike%20air.png?alt=media&token=c320eaa4-5515-4679-8717-ad67e608cbb7",
         "category": "ui",
         "media": [
@@ -50,19 +48,98 @@
         ]
     },
     {
-        "id": "6",
-        "title": "Madhav Sewa Society",
-        "code": "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "demo": "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "image": "projects/mss.png",
-        "category": "ui"
+        "id": "7",
+        "title": "JBL Headphones",
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FHEADPHONE%20Page%2FBlue%20headphones.png?alt=media&token=1c88e080-c6e4-47a7-9e2b-f6bcc4af3e84",
+        "category": "ui",
+        "media": [
+            {
+                "type": "video",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FHEADPHONE%20Page%2F0324.mp4?alt=media&token=42b59717-02de-4b31-8c60-f7b7b38e681d"
+            },
+            {
+                "type": "image",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FHEADPHONE%20Page%2FBlue%20headphones.png?alt=media&token=1c88e080-c6e4-47a7-9e2b-f6bcc4af3e84"
+            }
+        ]
     },
     {
-        "id": "7",
-        "title": "Madhav Sewa Society",
-        "code": "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "demo": "https://github.com/JapnoorHere/MadhavSewaSociety",
-        "image": "projects/mss.png",
-        "category": "ui"
+        "id": "11",
+        "title": "Srishti Sanwaad App",
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FSrishti%20Sanwaad%20App%2FGroup%205.png?alt=media&token=f2b55835-e524-48e1-93c3-2b1844dcccac",
+        "category": "ui",
+        "media": [
+            {
+                "type": "video",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FSrishti%20Sanwaad%20App%2F2024-06-27%2017-53-24%20(online-video-cutter.com).mp4?alt=media&token=881ffddf-45cf-4155-a871-4d2ea8b451ad"
+            },
+            {
+                "type": "image",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FSrishti%20Sanwaad%20App%2FGroup%205.png?alt=media&token=f2b55835-e524-48e1-93c3-2b1844dcccac"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Lays Home Page",
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FLays%20Home%20Page%2FBlue.png?alt=media&token=763403b1-077b-451d-9567-605fab42ba54",
+        "category": "ui",
+        "media": [
+            {
+                "type": "video",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FLays%20Home%20Page%2F2024-06-27%2017-54-35%20(online-video-cutter.com).mp4?alt=media&token=bde80a0e-2efa-4a56-abcb-9883dba74560"
+            },
+            {
+                "type": "image",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FLays%20Home%20Page%2FBlue.png?alt=media&token=763403b1-077b-451d-9567-605fab42ba54"
+            },
+            {
+                "type": "image",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FLays%20Home%20Page%2FGreen.png?alt=media&token=aab6142d-58c3-4dec-a9b3-e56db721707e"
+            },
+            {
+                "type": "image",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FLays%20Home%20Page%2FYellow.png?alt=media&token=b482c7b6-56dd-4460-bb7f-aeab7df91ec8"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Pizza Landing Page",
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FPIZZA%20Landing%20Page%2FFood01.png?alt=media&token=2dd3db07-2293-4af9-b06c-02dc26bc63b4",
+        "category": "ui",
+        "media": [
+            {
+                "type": "video",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FPIZZA%20Landing%20Page%2F2024-01-02%2016-36-46.mp4?alt=media&token=4bd43d1d-c979-4af6-adde-8d4b69ddaa94"
+            },
+            {
+                "type": "image",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FPIZZA%20Landing%20Page%2FFood01.png?alt=media&token=2dd3db07-2293-4af9-b06c-02dc26bc63b4"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "title": "XBOX Controller",
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FXBOX%20Controller%2Fcontroller.png?alt=media&token=fd4d7c93-754d-4522-8eb1-85490e51f190",
+        "category": "ui",
+        "media": [
+            {
+                "type": "image",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FXBOX%20Controller%2Fcontroller.png?alt=media&token=fd4d7c93-754d-4522-8eb1-85490e51f190"
+            }
+        ]
+    },{
+        "id": "9",
+        "title": "Juice Landing Page",
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FJuice%20Landing%20Page%2Fjuice.png?alt=media&token=e21ffd8e-562f-4d4b-82dd-cad451733072",
+        "category": "ui",
+        "media": [
+            {
+                "type": "image",
+                "path": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FJuice%20Landing%20Page%2Fjuice.png?alt=media&token=e21ffd8e-562f-4d4b-82dd-cad451733072"
+            }
+        ]
     }
 ]
