@@ -52,7 +52,7 @@ const Project = () => {
                         <p className={`${styles.category} ${activeCategory === 'web' ? styles.active : ''}`} onClick={() => handleClick('web')}>Web</p>
                         <p className={`${styles.category} ${activeCategory === 'ui' ? styles.active : ''}`} onClick={() => handleClick('ui')}>UI/UX</p>
                     </div>
-                <p className={styles.description}>Click on a project to explore more details!</p>
+                <p className={styles.description}>Click on a project to know more!</p>
 
                     <div className={`${styles.card_container} ${animateOut ? styles.animateOut : styles.animateIn}`}>
                         {

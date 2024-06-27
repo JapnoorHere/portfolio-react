@@ -3,77 +3,56 @@
 .container{
     z-index: 1;
     background-color: var(--color-secondary);
-    margin-top: 70px;
     padding: 2rem;
-
+    margin-top: 70px;
 }
 
 .content{
+    margin-bottom: 20px;
     display: flex;
-    flex-direction: row;
+    gap: 1.5rem;
+    flex-direction: column;
     justify-content: center;
-    gap: 10rem;
     align-items: center;
 }
 
-.content .leftContainer{
+.content h1{
+    color: var(--color-text);
+    font-size: 3rem;
+    text-align: center;
+}
+
+.content p{
+    text-align: center;
+    color: var(--color-text);
+    margin-left: 20%;
+    font-size: 1.2rem;
+    margin-right: 20%;
+}
+
+.content .socialLinks{
     display: flex;
-    flex-direction: column;
-    gap: 1rem;
+    gap: 1.8rem;
 }
 
-.content .leftContainer h1{
+.content .linkContainer i{
+    font-size: 2rem;
+    color: var(--color-bg);
+    transition: all 0.15s linear 0s;
+}
+
+.content .linkContainer i:hover{
     color: var(--color-text);
-    font-size: 4rem;
-    font-size: 600;
 }
 
-.content .leftContainer p{
-    color: var(--color-text);
-    font-size: 1.7rem;
+@media screen and (max-width:700px){
+    .content p{
+        margin: 0;
+    }
 }
 
-.content .rightContainer{
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-}
-
-.content .rightContainer .contactLink{
-    cursor: pointer;
-    display: flex;
-    gap: 1rem;
-    align-items: center;
-}
-
-
-.content .rightContainer i{
-    color: var(--color-text);
-    font-size: 30px;
-}
-
-.content .rightContainer p{
-    color: var(--color-text);
-    font-size: 1.3rem;
-}
-
-@media screen and (max-width: 720px){
-    .content{
+@media screen and (max-width:400px){
+    .content .socialLinks{
         flex-direction: column;
-        gap: 2rem;
     }
-}
-
-@media screen and (max-width: 500px){
-    .content .leftContainer h1{
-        font-size: 3rem;
-        text-align: center;
-    }
-
-    .content .leftContainer p{
-        font-size: 1.2rem;
-        text-align: center;
-    }
-
-    
 }

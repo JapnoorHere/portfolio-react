@@ -53,7 +53,7 @@
     background-size: 0 100%;
     background-repeat: no-repeat;
     transition: 0.24s;
-    cursor: pointer;
+    
 }
 
 .aboutItem:hover{
