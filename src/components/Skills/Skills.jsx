@@ -21,7 +21,7 @@ const Skills = () => {
             skills.map((skill, id) => {
               return <div key={id} className={styles.card}>
                 <div className={styles.cardImgContainer}>
-                  <img src={getImage(skill.image)} alt="" />
+                  <img src={getImage(skill.image)} alt="skill" />
                 </div>
                 <p className={styles.cardTitle}>{skill.title}</p>
               </div>

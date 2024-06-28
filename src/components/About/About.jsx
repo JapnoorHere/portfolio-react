@@ -10,11 +10,11 @@ const About = () => {
     <section className={styles.container} id='about'>
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
-        <img className={styles.aboutImg} src={aboutImg} alt="About Image"/>
+        <img className={styles.aboutImg} src={aboutImg} alt="About"/>
       <ul className={styles.aboutItems}>
 
         <li className={styles.aboutItem}>
-            <img src={fullStackIcon} alt="Cursor Icon" className={styles.aboutIcon}/>
+            <img src={fullStackIcon} alt="Cursor" className={styles.aboutIcon}/>
         <div className={styles.aboutItemText}>
             <h3>Full Stack Developer</h3>
             <p>I am an experienced Full Stack Developer with expertise in designing and implementing dynamic, user-centric web applications.</p>
@@ -22,7 +22,7 @@ const About = () => {
         </li >
 
         <li className={styles.aboutItem}>
-            <img src={androidIcon} alt="Android Icon" className={styles.aboutIcon}/>
+            <img src={androidIcon} alt="Android" className={styles.aboutIcon}/>
         <div className={styles.aboutItemText}>
             <h3>Android Developer</h3>
             <p>I am an experienced App Developer with expertise in creating intuitive and robust mobile applications for both iOS and Android platforms.</p>
@@ -30,7 +30,7 @@ const About = () => {
         </li>
 
         <li className={styles.aboutItem}>
-            <img src={uiIcon} alt="UI Icon" className={styles.aboutIcon}/>
+            <img src={uiIcon} alt="UI" className={styles.aboutIcon}/>
         <div className={styles.aboutItemText}>
             <h3>UI/UX Designer</h3>
             <p>I am an experienced UI/UX Designer with expertise in creating visually compelling and user-friendly interfaces for web and mobile applications.</p>

@@ -51,7 +51,7 @@ const Card = ({ project }) => {
                   Your browser does not support the video tag.
                 </video>
               ) : (
-                <img key={index} src={media.path} alt='project-image' className={styles.dialogImage} />
+                <img key={index} src={media.path} alt='project' className={styles.dialogImage} />
               )
             )
           ) : (
