@@ -7,7 +7,7 @@ const Contact = () => {
       <div className={styles.container}>
         <div className={styles.content}>
           <h1>Full Stack Developer</h1>
-          <p>I am a Full Stack Developer skilled in creating dynamic web applications and intuitive mobile apps for iOS and Android. I also excel in UI/UX design, crafting visually appealing and user-friendly interfaces for both web and mobile platforms.</p>
+          <p>I am a Full Stack Developer skilled in creating dynamic web applications and intuitive Android apps. I also excel in UI/UX design, for making user-friendly interfaces for both web and mobile platforms.</p>
           <div className={styles.socialLinks}>
             <a rel="noreferrer" href="https://mail.google.com/mail/?view=cm&to=sjapnoor11@gmail.com" target='_blank' className={styles.linkContainer}>
               <i className='fas fa-envelope'></i>
