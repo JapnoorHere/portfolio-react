@@ -1,5 +1,13 @@
 [
     {
+        "title": "Java",
+        "image": "skills/java.png"
+    },
+    {
+        "title": "CPP",
+        "image": "skills/cpp.png"
+    },
+    {
         "title": "HTML",
         "image": "skills/html.png"
     },
@@ -12,7 +20,27 @@
         "image": "skills/js.png"
     },
     {
-        "title": "React",
+        "title": "Kotlin",
+        "image": "skills/kotlin.png"
+    },
+    {
+        "title": "Tailwind CSS",
+        "image": "skills/tailwind.png"
+    },
+    {
+        "title": "Android using Kotlin",
+        "image": "skills/android.png"
+    },
+    {
+        "title": "Mongo DB",
+        "image": "skills/mongodb.png"
+    },
+    {
+        "title": "Express JS",
+        "image": "skills/express.png"
+    },
+    {
+        "title": "React JS",
         "image": "skills/react.png"
     },
     {
@@ -20,24 +48,19 @@
         "image": "skills/node.png"
     },
     {
-        "title": "Android Kotlin",
-        "image": "skills/android.png"
-    },
-    {
         "title": "PostgreSQL",
         "image": "skills/postgresql.png"
-    },{
+    },
+    {
         "title": "Firebase",
         "image": "skills/firebase.png"
     },
     {
-        "title": "Mongo DB",
-        "image": "skills/mongodb.png"
+        "title": "Git",
+        "image": "skills/git.png"
     },
-    
     {
         "title": "Figma",
         "image": "skills/figma.png"
     }
-    
 ]
