@@ -32,6 +32,30 @@
         "category": "web"
     },
     {
+        "id": "91",
+        "title": "Kick Drugs Quiz",
+        "code": "https://github.com/JapnoorHere/KickDrugsQuiz",
+        "demo": "https://kickdrugsquiz.netlify.app/",
+        "image": "projects/kick.png",
+        "category": "web",
+        "media": [
+            
+            {
+                "type": "image",
+                "path": "https://private-user-images.githubusercontent.com/109523523/354884221-0bf9a59a-722f-4044-bcd8-77bb314fcf28.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzMTI5MzAsIm5iZiI6MTczMDMxMjYzMCwicGF0aCI6Ii8xMDk1MjM1MjMvMzU0ODg0MjIxLTBiZjlhNTlhLTcyMmYtNDA0NC1iY2Q4LTc3YmIzMTRmY2YyOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAzMFQxODIzNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYjI1ZjFjYTEzMWE4OTFjYTg0MjYyY2I0YzZmMmY1ZjQyMDVkNjJkMzhlMTMzNzViMDcxMGEwYjcwNzk1NGRiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GMNJrkksngBvP8GtVsdJOi-FaANmuh5fEc8-Bilqtxc"
+            },
+            {
+                "type": "image",
+                "path": "https://private-user-images.githubusercontent.com/109523523/354884224-6f46c440-70fb-43b8-af09-d56a64345ea2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzMTI5MzAsIm5iZiI6MTczMDMxMjYzMCwicGF0aCI6Ii8xMDk1MjM1MjMvMzU0ODg0MjI0LTZmNDZjNDQwLTcwZmItNDNiOC1hZjA5LWQ1NmE2NDM0NWVhMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAzMFQxODIzNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04Njc4NDg5OTY5MzA5Y2Y3ZDRjNTkzZWE4OWNhNmJkYmZmMDcyMzVhMTM0NDgxODk4NDc5MjQ1YjA0NmE3NmZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OZSnZnkQWDRgYNK3V0jwXUkfU2NC_5bNAISJVS7pMfQ"
+            },
+            {
+                "type": "image",
+                "path": "https://private-user-images.githubusercontent.com/109523523/354884225-f2464cef-465b-49b6-ac88-37a171c4728b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzMTI5MzAsIm5iZiI6MTczMDMxMjYzMCwicGF0aCI6Ii8xMDk1MjM1MjMvMzU0ODg0MjI1LWYyNDY0Y2VmLTQ2NWItNDliNi1hYzg4LTM3YTE3MWM0NzI4Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAzMFQxODIzNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNDA5YmI0NDk3ZTFiYjNiOTYyNDk3OTU2Y2NkMWRiNWNlNWYxOTgyYzU2YmY1OGIzYmIyYzhlNWRkNmZhMjAwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.QeXn40UhJ5fHi5kVXWjndStrv9kF_ZBzOYhx3B9mhRw"
+            }
+            
+        ]
+    },
+    {
         "id": "5",
         "title": "Nike Shoes",
         "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-react-ebfc3.appspot.com/o/UI%20UX%2FNIKE%20AIR%20Shoes%2Fnike%20air.png?alt=media&token=c320eaa4-5515-4679-8717-ad67e608cbb7",
